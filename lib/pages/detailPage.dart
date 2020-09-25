@@ -66,7 +66,6 @@ class DetailPage extends StatelessWidget {
                     color: Colors.white
                   ),
                 ),
-                
               ],
             ),
           ],

@@ -18,8 +18,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
   @override
   void initState() {
     tabController = new TabController(length: 3, vsync: this); 
-    super.initState();
-    
+    super.initState();    
   }
 
   @override
@@ -69,7 +68,6 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
         ),
         bottomOpacity: 1.0,
       ),
-      
       body: Usuarios(),
     );
   }

@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:prueba_tec/pages/detailPage.dart';
 import 'package:prueba_tec/pages/homePage.dart';
 
- 
 void main() => runApp(MyApp());
  
 class MyApp extends StatelessWidget {

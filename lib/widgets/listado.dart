@@ -18,7 +18,6 @@ class TarjetasUsuario extends StatelessWidget {
 
     return InkWell(
       onTap: (){
-
         Navigator.push(
           context,
           MaterialPageRoute(
